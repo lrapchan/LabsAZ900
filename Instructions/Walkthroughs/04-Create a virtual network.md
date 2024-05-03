@@ -44,7 +44,7 @@ In this task, we will create two virtual machines in the virtual network.
    | Resource group |  **Select default in drop down** |
    | Virtual machine name | **vm1**|
    | Region | **(US) East US** |
-   | Image | **Windows Server 2019 Datacenter - Gen2** e **Ubuntu** |
+   | Image | **Windows Server 2019 Datacenter - Gen2** |
    | Username| **azureuser** |
    | Password| **Pa$$w0rd1234** |
    | Public inbound ports| Select **Allow selected ports**  |
