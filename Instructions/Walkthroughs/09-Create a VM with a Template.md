@@ -36,7 +36,7 @@ In this task, we will browse the Azure QuickStart gallery and deploy a template 
     | Admin password | **Pa$$w0rd1234** |
     | DNS label prefix | **myvmtemplatexxxx** |
     | OS version | **2019-Datacenter** |
-    | Size - **Final 4** |
+    | Size | **Final 4** |
 
 
 9. Click **Review + Create**.
