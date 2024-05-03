@@ -24,7 +24,7 @@ In this task, we will create a Function app.
     | Function App name | **function-xxxx** |
     | Publish | **Code** |
     | Runtime stack | **.NET** |
-    | Version | **3.1** |
+    | Version | **8 LTS ou superior** |
     | Region | **East US** |
 
     **Note** - Remember to change the **xxxx** so that it makes a unique **Function App name**
